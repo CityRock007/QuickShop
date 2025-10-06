@@ -1,0 +1,38 @@
+/lib
+  main.dart
+  /screens
+    home_screen.dart
+    product_screen.dart
+    cart_screen.dart
+    checkout_screen.dart
+    vendor_dashboard.dart
+  /widgets
+  /models
+  /providers
+  /services
+    api_service.dart
+    auth_service.dart
+    payment_service.dart
+
+/backend
+  server.js
+  /routes
+    auth.js
+    product.js
+    order.js
+    payment.js
+  /controllers
+  /models
+  /middlewares
+  /config
+    db.js
+    mail.js
+
+/assets
+  /images
+  /icons
+
+/docs
+  api_endpoints.md
+  system_architecture.png
+  feature_list.md
