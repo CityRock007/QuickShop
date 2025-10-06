@@ -1,0 +1,11 @@
+Customers / Vendors → QuickShop Mobile & Web App (Flutter)
+│
+│──> REST API (Node.js + Express)
+│
+│──> MySQL Database (cPanel / Plesk Hosting)
+│
+│──> File Storage (cPanel Public Directory / AWS S3)
+│
+│──> Payment Gateways (Paystack / Flutterwave)
+│
+└──> Email / Push Notifications (Firebase / SMTP)
